@@ -1,0 +1,28 @@
+[core]
+	excludesfile = /Users/ip/.gitignore
+	editor = vi
+[branch]
+	autosetuprebase = always
+[rebase]
+	autosquash = true
+[push]
+	default = simple
+[diff]
+	tool = bc3
+[difftool "bc3"]
+	trustExitCode = true
+[merge]
+	tool = bc3
+[mergetool "bc3"]
+	trustExitCode = true
+[user]
+	name = Ivan Prlic
+	email = iprlic@gmail.com
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[pager]
+	branch = false

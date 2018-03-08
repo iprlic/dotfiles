@@ -1,0 +1,10 @@
+{
+        "default":{
+                "name":"Ivan Prlic",
+                "email":"iprlic@gmail.com"
+        },
+        "toptal":{
+                "name":"Ivan Prlic",
+                "email":"ivan.prlic@toptal.com"
+        }
+}

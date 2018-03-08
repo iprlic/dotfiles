@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"CloseOtherWindows",
+		"Color Highlighter",
+		"CSS Extended Completions",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML Nest Comments",
+		"HTML5",
+		"Markdown Preview",
+		"Marked App Menu",
+		"Package Control",
+		"Pretty JSON",
+		"Random Everything",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-eslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"SublimeLinter-shellcheck",
+		"Terminal"
+	]
+}
